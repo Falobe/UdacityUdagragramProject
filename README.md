@@ -37,7 +37,7 @@ http://udacityudagramproject-dev.us-east-1.elasticbeanstalk.com/filteredimage?im
 ### I have finally finished my Udagram Project02 
 
 ### This is my GitHub Repo Url
-https://github.com/CafHub/udagram.git
+https://github.com/Falobe/UdacityUdagragramProject.git
 
 ## Stand Out (Optional)
 
